@@ -1,4 +1,4 @@
-package com.vkstech.elasticsearchdemo;
+package com.vkstech.elasticsearch;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -2,7 +2,7 @@
 
 ### Elasticsearch
 
-For this project to run, download and install Elasticsearch version 6.8.12 from [here](https://www.elastic.co/downloads/past-releases/elasticsearch-6-8-12).
+For this project to run, download and install Elasticsearch version 7.12.0 from [here](https://www.elastic.co/downloads/past-releases/elasticsearch-7-12-0).
 
 
 ### Other versions and compatibility
